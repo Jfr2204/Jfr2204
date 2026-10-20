@@ -2,11 +2,14 @@
 
 **Full Stack Developer** | Computer Engineering graduate from Universidad Nacional de San Luis 🇦🇷
 
-I build web applications and backend systems in Python, with a focus on LLM-powered applications and RAG pipelines.
+## 🚀 About me
+
+I build web applications and backend systems in Python, with a focus on LLM-powered applications and RAG pipelines. Strong background in software architecture and engineering.
+
 
 ## 🔭 Featured project
 
-**[Geonosis RAG Engine](https://github.com/<your-user>/<your-repo>)**: a Retrieval-Augmented Generation engine for natural-language queries on rare diseases, genes and phenotypes. Built with RAG Fusion, cross-encoder re-ranking and document-aware chunking. Developed as my final degree project and professional internship.
+**[Geonosis RAG Engine]([https://github.com/<your-user>/<your-repo>](https://github.com/Jfr2204/Geonosis_RAG_Engine.git))**: a Retrieval-Augmented Generation engine for natural-language queries on rare diseases, genes and phenotypes. Built with RAG Fusion, cross-encoder re-ranking and document-aware chunking. Developed as my final degree project and professional internship.
 
 ## 🛠️ Tech stack
 
